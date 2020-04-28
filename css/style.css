@@ -1,0 +1,60 @@
+.header {
+    color: black;
+    background-color: rgb(227, 227, 255);
+    text-align: left;
+    font-size: 35px;
+    margin: 0 auto;
+    padding: 10px 10px 10px 10px;
+    opacity: 50%;
+}
+
+.about {
+    margin: 0 auto;
+    text-align: center;
+    width: 450px;
+}
+
+.skills {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.skills ul li {
+    list-style-type: none;
+}
+
+.links {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.links ul li {
+    list-style-type: none;
+}
+
+.resume {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contact {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contact ul li {
+    list-style-type: none;
+}
+
+body {
+    background-color: rgb(245, 238, 228);
+}
+
+footer {
+    background-color: rgb(227, 227, 255);
+    opacity: 50%;
+}
+
+.image {
+    width: 325px;
+}
