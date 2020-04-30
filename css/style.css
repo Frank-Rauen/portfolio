@@ -1,4 +1,4 @@
-header {
+.header {
     color: black;
     background-color: rgb(227, 227, 255);
     text-align: left;
@@ -6,6 +6,17 @@ header {
     margin: 0 auto;
     padding: 10px 10px 10px 10px;
     opacity: 80%;
+}
+
+.navbar {
+    font-size: 25px;
+    float: right;
+    padding: 10px 10px 10px 10px;
+}
+
+.navbar a {
+    text-decoration: none;
+    margin: 10px 10px 10px 10px;
 }
 
 .about {
